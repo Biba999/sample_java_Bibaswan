@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'/mnt/d/Dev/Java/sample2/sample2/src/main/java:/mnt/d/Dev/Java/sample2/sample2/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/mnt/d/Dev/Java/sample2/sample2/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'sample_java_Bibaswan 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'sample_java_Bibaswan 1.0-SNAPSHOT API'
+com.singhdevhub
+/mnt/d/Dev/Java/sample2/sample2/src/main/java = 1750599558725
+/mnt/d/Dev/Java/sample2/sample2/target/generated-sources/annotations = 1750875688177
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/allclasses-index.html = 1750875789390
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/allpackages-index.html = 1750875789405
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/copy.svg = 1750875789620
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/element-list = 1750875789180
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/help-doc.html = 1750875789551
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/index-all.html = 1750875789498
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/index.html = 1750875789527
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/link.svg = 1750875789638
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/member-search-index.js = 1750875789454
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/module-search-index.js = 1750875789419
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/overview-tree.html = 1750875789356
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/package-search-index.js = 1750875789432
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/script.js = 1750875789604
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/search-page.js = 1750875789686
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/search.html = 1750875789514
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/search.js = 1750875789656
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/stylesheet.css = 1750875789575
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/tag-search-index.js = 1750875789466
+/mnt/d/Dev/Java/sample2/sample2/target/apidocs/type-search-index.js = 1750875789444
