@@ -3,15 +3,36 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.singhdevhub</groupId>
+
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <id>Biba999</id>
+      <name>Bibaswan Patra</name>
+      <email>bibaswan.patra@gmail.com</email>
+    </developer>
+  </developers>
+
+  <scm>
+    <url>https://github.com/Biba999/sample_java_Bibaswan</url>
+    <connection>scm:git:https://github.com/Biba999/sample_java_Bibaswan.git</connection>
+    <developerConnection>scm:git:https://github.com/Biba999/sample_java_Bibaswan.git</developerConnection>
+  </scm>
+
+  <groupId>io.github.Biba999</groupId>
   <artifactId>sample_java_Bibaswan</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>sample_java_Bibaswan</name>
-  <description>Blank project just to try deploying by a newbie</description>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <description>Sample project deployed to GitHub Packages</description>
+  <url>https://github.com/Biba999/sample_java_Bibaswan</url>
 
   <distributionManagement>
     <repository>
